@@ -1,0 +1,8 @@
+.simple-shadow {
+    box-shadow: 15px 15px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.simple-shadow-img {
+    box-shadow: 20px 15px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
